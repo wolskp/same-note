@@ -13,7 +13,6 @@
     <bpm>80</bpm>
     <lowestNote>1</lowestNote>
     <tonalities>9</tonalities>
-    <video name="smth264faststart.mp4" size="796857" type="video/mp4">61d80ba05fa93f616c9c68733870395a4baf3230a731449d7eb4b110ed272808</video>
     <notes>
       <note number="1" values="1" ticks="248" durationTicks="328" ppq="192" velocity="0.219"/>
       <note number="2" values="18" ticks="598" durationTicks="281" ppq="192" velocity="0.224"/>
